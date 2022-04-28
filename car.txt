@@ -1,0 +1,11 @@
+435,LandCruiser,black,2019,230,No
+2456,Altima,black,2015,170,No
+7856,Sentra,white,2020,150,No
+14567,Corolla,grey,2018,130,No
+4345,Maxima,Green,2013,190,No
+5667,GTR,White,2010,300,No
+7654,Patrol,Black,2020,230,No
+14678,Camry,white,2016,180,No
+6543,Pathfinder,white,2012,200,No
+16779,XTrail,Black,2015,175,No
+6789,Sunny,white,2018,120,No
